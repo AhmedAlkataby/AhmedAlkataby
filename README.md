@@ -24,10 +24,7 @@
 
 - 📫 How to reach me
 
-<div align="center"> 
-  <a href="mailto:ahmed.alkataby@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-333333?style=for-the-badge&logo=outlook&logoColor=white" />
-  </a>
+<div align="center">
   <a href="https://www.linkedin.com/in/ahmed-al-kataby" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
