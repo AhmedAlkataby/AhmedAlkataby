@@ -5,7 +5,7 @@
 <h3 align="center">A Passionate Indie Game Developer</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=AhmedAlkataby&label=Profile%20views&color=C00000&style=flat" alt="AhmedAlkataby" /> 
+  <img src="https://komarev.com/ghpvc/?username=AhmedAlkataby&label=Profile%20views&color=C00000&style=for-the-badge" alt="AhmedAlkataby" /> 
 </p>
 
 <!---
