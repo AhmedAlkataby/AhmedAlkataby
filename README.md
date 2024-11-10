@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&color=C00000&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+Everyone!+👋;I'm+Ahmed!+☺️" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&color=C00000&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+Everyone!+👋;I'm+Ahmed!" />
 </h1>
 
 <h3 align="center">Horror Is In My Blood 🎃</h3>
@@ -48,10 +48,9 @@
 
 ## Skills 📜
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,xd,git,php,laravel,javascript,wordpress" /><br>
+    <img src="https://skillicons.dev/icons?i=ae,anaconda,arduino,atom,azure,bevy,blender,bootstrap,c,cs,cpp,cmake,css" /><br>
     <img src="https://skillicons.dev/icons?i=python,firebase,opencv,dotnet,cs,cpp,mysql,visualstudio,selenium,qt" /><br>
     <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,anaconda,sublime,notion" />
-  <br>
 </div>
 
 ##
