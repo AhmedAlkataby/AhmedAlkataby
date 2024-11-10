@@ -26,11 +26,14 @@
 - 📫 How to reach me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-al-kataby" target="_blank">
+  <a href="https://ahmedalkataby.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Profile-C00000?style=for-the-badge&logo=ameba&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/ahmed-al-kataby" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.facebook.com/aekstudio2019" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
 </div>
 
