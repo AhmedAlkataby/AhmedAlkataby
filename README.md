@@ -88,7 +88,7 @@
 # Stack ⚡
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedAlkataby&theme=dark&hide_border=true&border_radius=10&mode=weekly" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedAlkataby&theme=github-dark&hide_border=true&border_radius=10&mode=weekly" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedAlkataby&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&theme=dark&locale=en&hide_border=true" alt="stats graph" />
   <br>
