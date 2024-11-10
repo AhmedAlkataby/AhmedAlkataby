@@ -13,6 +13,8 @@
 ##
 <br>
 
+# Info. ℹ️
+
 - 🔭 I’m currently working on **Without Justice: Silence Episode**
 
 - 🌱 I’m currently learning **Procedural Animation**
@@ -23,7 +25,14 @@
 
 - 💬 Ask me about **Game Dev , 3D Art , Graphics Programming , Level Designing**
 
-- 📫 How to reach me
+- 📫 How to reach me **ahmed.alkataby@outlook.com**
+
+- ⚡ Fun fact **I prefer Joker to Batman 😁**
+
+##
+<br>
+
+# Links 🔗
 
 <div align="center">
   <a href="https://ahmedalkataby.github.io" target="_blank">
@@ -72,10 +81,15 @@
 <br>
 
 # Contributions 🐍
-<br>
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
+
+##
+<br>
+
+# Stack ⚡
+
 
 ##
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
