@@ -46,7 +46,7 @@
 ##
 <br>
 
-## Skills 📜
+# Skills 📜
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ae,anaconda,arduino,atom,azure,bevy,blender,bootstrap,c,cs,cpp,cmake,css" /><br>
     <img src="https://skillicons.dev/icons?i=dart,django,dotnet,eclipse,flutter,gamemakerstudio,git,github,godot,gtk,html" /><br>
