@@ -14,7 +14,7 @@
 <br>
 
 # Info. ℹ️
-
+<br>
 - 🔭 I’m currently working on **Without Justice: Silence Episode**
 
 - 🌱 I’m currently learning **Procedural Animation**
@@ -29,11 +29,7 @@
 
 - ⚡ Fun fact **I prefer Joker to Batman 😁**
 
-##
 <br>
-
-# Links 🔗
-
 <div align="center">
   <a href="https://ahmedalkataby.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Profile-C00000?style=for-the-badge&logo=ameba&logoColor=white" target="_blank" />
