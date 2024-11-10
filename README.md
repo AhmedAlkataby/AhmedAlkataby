@@ -11,7 +11,7 @@
 </p>
 
 ##
-<br/>
+<br>
 
 - 🔭 I’m currently working on **Without Justice: Silence Episode**
 
@@ -42,6 +42,9 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
   </a>
 </div>
+
+##
+<br>
 
 ## Skills 📜
 
