@@ -10,28 +10,26 @@
   <img src="https://komarev.com/ghpvc/?username=AhmedAlkataby&label=Profile%20views&color=C00000&style=for-the-badge" alt="AhmedAlkataby" /> 
 </p>
 
-## I Make Awesome Shit Since 2024 🚀
-<div align="center">
-  <a href="https://hetari.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="portfolio badge" />
+##
+- 🔭 I’m currently working on **Clean Architurter**
+
+- 🌱 I’m currently learning **API , Analysis Data**
+
+- 👯 I’m looking to collaborate on **frappe**
+
+- 🤝 I’m looking for help with **ERPNEXT**
+
+- 💬 Ask me about **.NET , Python , frappe**
+
+- 📫 How to reach me
+
+<div align="center"> 
+  <a href="mailto:hussamalmaswari@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-</div>
-<br />
-<div align="center">
-  <a href="https://en.wikipedia.org/wiki/Open_source"  target="_blank">
-    <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/hussam-al-maswari-166b0a302" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://twitter.com/4Hetari"  target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=hetari&label=Profile%20hugs&style=for-the-badge&color=071A2C" alt="hetari" />
-  </a>
-  <a href="https://github.com/hetari" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hetari?style=for-the-badge&logo=github&logoColor=white&color=071A2C">
-  </a>
-  <a href="https://github.com/hetari" target="_blank">
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/hetari?style=for-the-badge&logo=github&logoColor=white&color=071A2C">
-  </a>
-  <a href="https://github.com/Hetari/Hetari/issues/1">
-    <img src="https://img.shields.io/badge/Ask%20me-here-1abc9c.svg?style=for-the-badge" /> </a>
 </div>
 
 ##
