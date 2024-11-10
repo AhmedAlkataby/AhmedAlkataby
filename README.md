@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **Without Justice**
 
-- 🤝 I’m looking for help with **Without Justice**
+- 👀 I’m looking for help with **Without Justice**
 
 - 💬 Ask me about **Game Dev , 3D Art , Graphics Programming , Level Designing**
 
@@ -88,7 +88,7 @@
 # Stack ⚡
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedAlkataby&border_radius=10&hide_border=true&theme=dracula" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hetari&border_radius=10&hide_border=true&theme=dracula" alt="GitHub Streak"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedAlkataby&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&theme=dracula&locale=en&hide_border=true" alt="stats graph" />
   <br>
