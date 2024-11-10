@@ -49,8 +49,12 @@
 ## Skills 📜
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ae,anaconda,arduino,atom,azure,bevy,blender,bootstrap,c,cs,cpp,cmake,css" /><br>
-    <img src="https://skillicons.dev/icons?i=python,firebase,opencv,dotnet,cs,cpp,mysql,visualstudio,selenium,qt" /><br>
-    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,anaconda,sublime,notion" />
+    <img src="https://skillicons.dev/icons?i=dart,django,dotnet,eclipse,flutter,gamemakerstudio,git,github,godot,gtk,html" /><br>
+    <img src="https://skillicons.dev/icons?i=ai,java,js,kali,linux,mysql,obsidian,ps,php" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,postman,py,qt,rust,sass,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=stackoverflow,sketchup,threejs,unity,unreal" /><br>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,wasm" /><br>
+    <img src="https://skillicons.dev/icons?i=windows" /><br>
 </div>
 
 ##
