@@ -89,10 +89,10 @@
 <br>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedAlkataby&theme=blood-dark&hide_border=true&border_radius=10&mode=weekly" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedAlkataby&theme=dracula&hide_border=true&border_radius=10&mode=weekly" alt="GitHub Streak" />
   </a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAlkataby&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&theme=blood-dark&locale=en&hide_border=true" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAlkataby&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&theme=dracula&locale=en&hide_border=true" alt="stats graph" />
   <br>
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedAlkataby&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide=html,hack&hide_border=true" alt="languages graph" />
 </div>
