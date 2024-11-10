@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&pause=1000&color=F70000&center=true&vCenter=true&width=500&height=100&lines=Hi+There!+%F0%9F%91%8B;I'm+Ahmed!)](https://git.io/typing-svg)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&color=FFFFFF&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+There!+👋;I'm+Ahmed!" />
+</h1>
 
 <!---
 AhmedAlkataby/AhmedAlkataby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
