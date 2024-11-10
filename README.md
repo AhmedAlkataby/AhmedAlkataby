@@ -47,6 +47,12 @@
 <br>
 
 ## Skills 📜
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,xd,git,php,laravel,javascript,wordpress" /><br>
+    <img src="https://skillicons.dev/icons?i=python,firebase,opencv,dotnet,cs,cpp,mysql,visualstudio,selenium,qt" /><br>
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,anaconda,sublime,notion" />
+  <br>
+</div>
 
 ##
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
