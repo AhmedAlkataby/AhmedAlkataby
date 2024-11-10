@@ -12,7 +12,7 @@
 
 ##
 <br/>
-- 🔭 I’m currently working on **Without Justice: Silence Episode**
+- 🔭 I’m currently working on **Without Justice Silence Episode**
 
 - 🌱 I’m currently learning **Procedural Animation**
 
